@@ -1,10 +1,19 @@
+<!--
+ * @Descripttion:
+ * @version:
+ * @Author: 刘威
+ * @Date: 2020-12-02 16:38:02
+ * @LastEditors: 刘威
+ * @LastEditTime: 2020-12-02 16:49:09
+ -->
+
 # lol
 
-> A Vue.js project
+> 一个云顶之弈模拟器，server 为后端代码
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
@@ -26,5 +35,3 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
