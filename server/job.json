@@ -1,156 +1,190 @@
 {
-	"14": {
-		"imgUrl": "",
-		"introduce": "炼金师会穿过其他单位并且永不停止移动。",
-		"job_name": "炼金师",
-		"level": [{
-			"describe": "炼金师会穿过其他单位并且永不停止移动。",
-			"name": "1"
-		}],
-		"traitID": "2001"
-	},
-	"15": {
-		"imgUrl": "",
-		"introduce": "部署多名刺客会为他们提供暴击几率和强化的暴击伤害，随部署的刺客数增加。",
-		"job_name": "刺客",
-		"level": [{
-			"describe": "10%的几率造成75%的暴击伤害和+10%的暴击几率",
-			"name": "3"
-		}, {
-			"describe": "20%的几率造成150%的暴击伤害和+20%的暴击几率",
-			"name": "6"
-		}],
-		"traitID": "2002",
-		"introduce1": "部署多名刺客会为他们提供暴击几率和强化的暴击伤害，随部署的刺客数增加。"
-	},
-	"16": {
-		"imgUrl": "",
-		"introduce": "大元素使在计算元素特质加成时按双倍计算。",
-		"job_name": "大元素使",
-		"level": [{
-			"describe": "大元素使在计算元素特质加成时按双倍计算。",
-			"name": "1"
-		}],
-		"traitID": "2003"
-	},
-	"17": {
-		"imgUrl": "",
-		"introduce": "部署多名狂战士能让他们的攻击有几率对目标背后锥形区域造成伤害。几率随部署的狂战士数增加。",
-		"job_name": "狂战士",
-		"level": [{
-			"describe": "狂战士的攻击有40%的几率对目标背后锥形区域造成伤害。",
-			"name": "3"
-		}, {
-			"describe": "狂战士的攻击有100%的几率对目标背后锥形区域造成伤害。",
-			"name": "6"
-		}],
-		"traitID": "2004"
-	},
-	"18": {
-		"imgUrl": "",
-		"introduce": "●部署多名召唤使能增加他们召唤生物的生命值和持续时间，随部署的召唤使数提升。 ●召唤使的召唤物受元素和职业加成，但不算作用于激活更高等级加成的额外单位。 ",
-		"job_name": "召唤使",
-		"level": [{
-			"describe": "增加召唤生物40%的生命值和持续时间。",
-			"name": "3"
-		}, {
-			"describe": "增加召唤生物100%的生命值和持续时间。",
-			"name": "6"
-		}],
-		"traitID": "2006"
-	},
-	"19": {
-		"imgUrl": "",
-		"introduce": "部署两名德鲁伊能让全体德鲁伊获得生命回复。",
-		"job_name": "德鲁伊",
-		"level": [{
-			"describe": "德鲁伊获得每秒40点的生命回复。",
-			"name": "2"
-		}],
-		"traitID": "2007"
-	},
-	"20": {
-		"imgUrl": "",
-		"introduce": "部署多名魔法师能让他们有几率在施放完技能后再施放一次。几率随部署的法师数增加。",
-		"job_name": "魔法师",
-		"level": [{
-			"describe": "法师有50%的几率在施放完技能后再施放一次。",
-			"name": "3"
-		}, {
-			"describe": "法师有100%的几率在施放完技能后再施放一次。",
-			"name": "6"
-		}],
-		"traitID": "2008"
-	},
-	"21": {
-		"imgUrl": "",
-		"introduce": "部署多名秘术英雄能为全体队伍提供魔抗，随部署的秘术英雄数提升。",
-		"job_name": "秘术",
-		"level": [{
-			"describe": "为全体队伍增加60的魔法抗性。",
-			"name": "2"
-		}, {
-			"describe": "为全体队伍增加140的魔法抗性。",
-			"name": "4"
-		}],
-		"traitID": "2009"
-	},
-	"22": {
-		"imgUrl": "",
-		"introduce": "部署多名掠食者能让他们的攻击和技能斩杀低生命值的敌军。",
-		"job_name": "掠食者",
-		"level": [{
-			"describe": "掠食者们的伤害会立刻击杀掉生命值低于20%的敌军。",
-			"name": "3"
-		}],
-		"traitID": "2010"
-	},
-	"23": {
-		"imgUrl": "",
-		"introduce": "部署多名游侠有几率让他们间歇性地获得攻速爆发，随部署的游侠数增加。",
-		"job_name": "游侠",
-		"level": [{
-			"describe": "游侠有30%的几率在接下来的3秒内攻速翻倍。",
-			"name": "2"
-		}, {
-			"describe": "游侠有60%的几率在接下来的3秒内攻速翻倍。",
-			"name": "4"
-		}, {
-			"describe": "游侠有100%的几率在接下来的3秒内攻速翻倍。",
-			"name": "6"
-		}],
-		"traitID": "2011"
-	},
-	"24": {
-		"imgUrl": "",
-		"introduce": "部署多名守护神能为他们提供护甲，随部署的守护神数提升。",
-		"job_name": "守护神",
-		"level": [{
-			"describe": "守护者们提升125%的护甲。",
-			"name": "2"
-		}, {
-			"describe": "守护者们提升275%的护甲。",
-			"name": "4"
-		}, {
-			"describe": "守护者们提升450%的护甲。",
-			"name": "6"
-		}],
-		"traitID": "2012"
-	},
-	"25": {
-		"imgUrl": "",
-		"introduce": "部署多名剑士能让他们有几率进行额外攻击次数，造成伤害并触发攻击特效。额外攻击次数随部署的剑士数提升。",
-		"job_name": "剑士",
-		"level": [{
-			"describe": "剑士的每次攻击有40%几率触发1次额外攻击，造成伤害并触发攻击特效。",
-			"name": "2"
-		}, {
-			"describe": "剑士的每次攻击有40%几率触发2次额外攻击，造成伤害并触发攻击特效。",
-			"name": "4"
-		}, {
-			"describe": "剑士的每次攻击有40%几率触发3次额外攻击，造成伤害并触发攻击特效。",
-			"name": "6"
-		}],
-		"traitID": "2005"
-	}
+    "version": "10.24",
+    "season": "2020.S4",
+    "time": "2020-11-27 16:40:29",
+    "data": [
+        {
+            "jobId": "1",
+            "name": "宗师",
+            "traitId": "1",
+            "introduce": "在战斗环节开始时，【宗师】们会平缓敌方的战意，使所有敌人的攻击速度降低50%，持续若干秒",
+            "alias": "4001.png",
+            "level": {
+                "2": "持续2秒",
+                "3": "持续3.5秒",
+                "4": "持续6秒"
+            },
+            "TFTID": "38",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/4001.png"
+        },
+        {
+            "jobId": "2",
+            "name": "刺客",
+            "traitId": "2",
+            "introduce": "固有能力:在战斗环节开始时，【刺客】们会跃至敌方后排。\r\n【刺客】们的技能可以暴击，并且会获得额外的暴击伤害和暴击几率。",
+            "alias": "4002.png",
+            "level": {
+                "2": "+30%暴击伤害和+10%暴击几率",
+                "4": "+60%暴击伤害和+25%暴击几率",
+                "6": "+90%暴击伤害和+40%暴击几率"
+            },
+            "TFTID": "39",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/4002.png"
+        },
+        {
+            "jobId": "3",
+            "name": "斗士",
+            "traitId": "3",
+            "introduce": "【斗士】英雄获得额外的生命值。",
+            "alias": "4003.png",
+            "level": {
+                "2": "400生命值",
+                "4": "800生命值",
+                "6": "1200生命值",
+                "8": "1800生命值"
+            },
+            "TFTID": "40",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/4003.png"
+        },
+        {
+            "jobId": "4",
+            "name": "耀光使",
+            "traitId": "4",
+            "introduce": "【耀光使】们的技能在命中敌人时会降低其攻击力，持续若干秒。",
+            "alias": "4004.png",
+            "level": {
+                "2": "降低其40%攻击力，持续8秒",
+                "4": "降低其80%攻击力，持续8秒"
+            },
+            "TFTID": "41",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/4004.png"
+        },
+        {
+            "jobId": "5",
+            "name": "决斗大师",
+            "traitId": "5",
+            "introduce": "固有能力:【决斗大师】们移动得更快。\r\n【决斗大师】们的攻击会提供攻击速度，至多8层。",
+            "alias": "4005.png",
+            "level": {
+                "2": "每层+12%攻击速度",
+                "4": "每层+20%攻击速度",
+                "6": "每层+35%攻击速度",
+                "8": "每层+60%攻击速度"
+            },
+            "TFTID": "42",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/4005.png"
+        },
+        {
+            "jobId": "6",
+            "name": "猎人",
+            "traitId": "6",
+            "introduce": "每过若干秒，所有【猎人】们就会攻击生命值百分比最低的敌人，造成提升过的伤害。\r\n",
+            "alias": "4006.png",
+            "level": {
+                "2": "每过3.5秒造成125%额外伤害",
+                "3": "每过3秒造成150%额外伤害",
+                "4": "每过2.5秒造成175%额外伤害",
+                "5": "每过2秒造成200%额外伤害"
+            },
+            "TFTID": "43",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/4006.png"
+        },
+        {
+            "jobId": "7",
+            "name": "神盾使",
+            "traitId": "7",
+            "introduce": "在战斗环节开始时，【神盾使】们会为自身和附近的所有友军提供一层护盾，持续8/10/14秒。这个护盾在作用于【神盾使】时会多50%护盾值。\r\n",
+            "alias": "4007.png",
+            "level": {
+                "2": "175护盾值",
+                "4": "250护盾值",
+                "6": "350护盾值"
+            },
+            "TFTID": "44",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/4007.png"
+        },
+        {
+            "jobId": "8",
+            "name": "魔法师",
+            "traitId": "8",
+            "introduce": "【魔法师】们可以进行双重施法并且拥有修正过的基础法术强度。",
+            "alias": "4008.png",
+            "level": {
+                "3": "【魔法师】全员的基础施法强度为80%",
+                "6": "【魔法师】全员的基础施法强度为110%",
+                "9": "【魔法师】全员的基础施法强度为180%"
+            },
+            "TFTID": "45",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/4008.png"
+        },
+        {
+            "jobId": "9",
+            "name": "秘术师",
+            "traitId": "9",
+            "introduce": "所有友军获得魔法抗性。",
+            "alias": "4009.png",
+            "level": {
+                "2": "40魔法抗性",
+                "4": "100魔法抗性",
+                "6": "200魔法抗性"
+            },
+            "TFTID": "46",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/4009.png"
+        },
+        {
+            "jobId": "10",
+            "name": "夜影",
+            "traitId": "10",
+            "introduce": "固有能力:在战斗环节开始时，【夜影】们会传送到敌方后排。\r\n【夜影】们在第3次普攻打出后，就会浸没入暗影之中，进入潜行状态，并且使其第4次攻击造成额外魔法伤害。",
+            "alias": "4010.png",
+            "level": {
+                "2": "125额外魔法伤害",
+                "3": "400额外魔法伤害",
+                "4": "750额外魔法伤害"
+            },
+            "TFTID": "47",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/4010.png"
+        },
+        {
+            "jobId": "11",
+            "name": "神射手",
+            "traitId": "11",
+            "introduce": "【神射手】们的攻击和技能会弹射到附近的敌人身上并造成降低过的伤害。",
+            "alias": "4011.png",
+            "level": {
+                "2": "降低55%伤害的1次弹射",
+                "4": "降低50%伤害的2次弹射",
+                "6": "降低45%伤害的3次弹射"
+            },
+            "TFTID": "48",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/4011.png"
+        },
+        {
+            "jobId": "12",
+            "name": "重装战士",
+            "traitId": "12",
+            "introduce": "重装英雄获得额外的护甲。",
+            "alias": "4012.png",
+            "level": {
+                "2": "100护甲",
+                "4": "250护甲",
+                "6": "600护甲",
+                "8": "1500护甲"
+            },
+            "TFTID": "49",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/4012.png"
+        },
+        {
+            "jobId": "13",
+            "name": "枭雄",
+            "traitId": "13",
+            "introduce": " 【枭雄】会部署两个可独立移动的士兵。这些士兵不会移动或攻击，并会和他们的主人—起阵亡。",
+            "alias": "4013.png",
+            "level": {
+                "1": "【枭雄】会部署两个可独立移动的士兵。这些士兵不会移动或攻击，并会和他们的主人—起阵亡。"
+            },
+            "TFTID": "50",
+            "imagePath": "https://game.gtimg.cn/images/lol/act/img/tft/classes/4013.png"
+        }
+    ]
 }
