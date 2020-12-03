@@ -76,7 +76,6 @@ if($chesses){
 	if(empty($team_b)){
 		error('请选择阵容2里的英雄');
 	}
-
 }else{
 	error('英雄缺失！');
 }
