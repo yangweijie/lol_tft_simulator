@@ -1,7 +1,14 @@
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: 刘威
+ * @Date: 2020-12-02 16:38:02
+ * @LastEditors: 刘威
+ * @LastEditTime: 2020-12-03 16:01:29
+ -->
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <router-view/>
+    <router-view />
   </div>
 </template>
 
@@ -12,12 +19,4 @@ export default {
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
 </style>
